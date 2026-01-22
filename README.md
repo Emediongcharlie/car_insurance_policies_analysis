@@ -1,6 +1,6 @@
 # car_insurance_policies_analysis
 
-1. Project Overview
+# 1. Project Overview
 
 This project analyzes car insurance policy data in order to understand claim behavior among policyholders. The objective is to uncover patterns in:
 - Claim frequency
