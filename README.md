@@ -55,7 +55,7 @@ This could be linked to lifestyle, driving habits, or travel frequency.
 -	Urban areas had a higher claim frequency than rural areas, likely due to heavier traffic, congestion, and accident exposure.
 -	Single policyholders recorded higher claim frequencies than married individuals, which may reflect differences in driving behavior and risk-taking.
 
-**[Dashboard]**(https://github.com/Emediongcharlie/car_insurance_policies_analysis/blob/main/Car%20Insurance%20Analysis%20Dashboard.png)
+**[Dashboard](https://github.com/Emediongcharlie/car_insurance_policies_analysis/blob/main/Car%20Insurance%20Analysis%20Dashboard.png)**
 
 # 5. Recommendations
 Based on the insights from the analysis, the following actions are recommended:
